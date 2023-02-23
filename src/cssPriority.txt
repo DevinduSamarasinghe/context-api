@@ -1,0 +1,7 @@
+Priority of CSS files come as 
+1) Index.css
+2) App.css
+
+Since the file structure I follow considers the App.js as the parent
+- It is okay to have all the global css configurations in App.css ( Except TailwindCSS configs) in App.css
+- Incase you go extra try, index.css 
